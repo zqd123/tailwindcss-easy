@@ -85,5 +85,8 @@ Tailwind CSS的工作原理是扫描所有HTML文件、JavaScript组件、vue文
 }
 ```
 
+## 源码
+[github](https://github.com/zqd123/tailwindcss-easy.git)
+
 ## 推荐
 [在vue2中使用tailwindcss（完整教程）](https://blog.csdn.net/zqd_java/article/details/136568490)
